@@ -1,3 +1,8 @@
+# exclude temp cpp files
+*.pcm
+*.so
+*.d
+
 .DS_Store
 
 # exclude sample and results
